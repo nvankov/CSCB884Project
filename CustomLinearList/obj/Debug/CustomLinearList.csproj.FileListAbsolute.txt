@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CustomLinearList\bin\Debug\CustomLinearList.dll
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CustomLinearList\bin\Debug\CustomLinearList.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CustomLinearList\obj\Debug\CustomLinearList.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CustomLinearList\obj\Debug\CustomLinearList.dll
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CustomLinearList\obj\Debug\CustomLinearList.pdb

@@ -1,0 +1,8 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CompareLists\bin\Debug\CompareLists.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CompareLists\bin\Debug\CompareLists.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CompareLists\bin\Debug\CompareLists.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CompareLists\bin\Debug\CustomLinearList.dll
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CompareLists\bin\Debug\CustomLinearList.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CompareLists\obj\Debug\CompareLists.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CompareLists\obj\Debug\CompareLists.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\CourseCSCB884Project\CompareLists\obj\Debug\CompareLists.pdb
